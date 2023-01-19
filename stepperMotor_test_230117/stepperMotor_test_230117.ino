@@ -19,7 +19,7 @@ void loop()
   spinMotor(0,500);
   delay(1000);
 
-  //モーター側に移動
+  //モーター向きに移動
   spinMotor(1,500);
   delay(1000);
 
